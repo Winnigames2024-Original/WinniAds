@@ -1,6 +1,6 @@
 {
   "name": "Test ads app",
   "video_url": "https://winnigames2024-original.github.io/WinniAds/ads/test.mp3",
-  "ads_video_time": "15:5",
-  "time_to_ads_mohno_skip": "5:10"
+  "ads_video_time": "15500",
+  "time_to_ads_mohno_skip": "51000"
 }
